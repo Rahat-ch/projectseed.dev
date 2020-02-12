@@ -6,3 +6,9 @@ Share and Discover new resources for learning how to code.
 - GatsbyJS
 - Auth0
 - useAuth custom Hook from Swizec Teller
+- GraphQL
+- AWS Lambda
+- AWS SDK
+- Apollo Server
+- Apollo Server Lambda
+- TypeScript

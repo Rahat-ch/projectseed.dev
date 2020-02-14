@@ -4,7 +4,8 @@
   "description": "Share and discover resources for learning to code",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc",
+    "deploy": "npm run build && serverless deploy"
   },
   "author": "Rahat Chowdhury",
   "license": "MIT",

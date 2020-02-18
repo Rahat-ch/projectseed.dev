@@ -8,6 +8,7 @@ Frontend:
 - Auth0
 - useAuth custom Hook from Swizec Teller
 - GraphQL
+- React Apollo Hooks
 
 Backend:
 - AWS Lambda
